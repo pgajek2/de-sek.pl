@@ -12,11 +12,11 @@ class PageTitleCmp extends React.Component {
       title : props.title
     }
   }
-
+//not used
   render() {
     return (
       <div className="page-title">
-        <h1>{this.state.title}</h1>
+        <h1></h1>
       </div>
     )
   }

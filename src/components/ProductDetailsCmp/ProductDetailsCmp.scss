@@ -3,6 +3,7 @@
 $border-space: 16px;
 
 .product-details {
+    font-family: 'Kotta One', serif;
   display: grid;
   grid-template-columns: 7fr 5fr;
   grid-template-rows: auto;
@@ -20,13 +21,13 @@ $border-space: 16px;
   }
   .product-price {
     padding: $border-space 0px $border-space 0px;
-    border-bottom: 1px solid darken(white, 10);
+    border-bottom: 1px solid darken(white, 15);
   }
   ul {
     list-style-type: none;
     margin: 0px;
     padding: 0px 0px $border-space 0px;
-    border-bottom: 1px solid darken(white, 10);
+    border-bottom: 1px solid darken(white, 15);
   }
   li {
     padding: $border-space 0px 0px 0px ;
@@ -36,19 +37,19 @@ $border-space: 16px;
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
-    color: darken(white, 60);;
+    color: darken(white, 60);
     font-size: 18px;
     padding-right: 0.5em;
   }
   .product-description {
     padding: $border-space 0px $border-space 0px;
-    border-bottom: 1px solid darken(white, 10);
+    border-bottom: 1px solid darken(white, 15);
   }
   .product-navigation {
     display: flex;
     justify-content: space-between;
     padding: $border-space 0px $border-space 0px;
-    border-bottom: 1px solid darken(white, 10);
+    border-bottom: 1px solid darken(white, 15);
   }
 }
 

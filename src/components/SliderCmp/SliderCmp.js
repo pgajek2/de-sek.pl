@@ -8,7 +8,7 @@ class SliderCmp extends React.Component {
   render() {
 
     const photo01Url = {
-        backgroundImage: 'url('+ require('./../.././images/slajd1000.jpg') +')',
+        backgroundImage: 'url('+ require('./../.././images/slajd1016.jpg') +')',
     };
     const photo02Url = {
         backgroundImage: 'url('+ require('./../.././images/slajd1001.jpg') +')',
@@ -17,7 +17,7 @@ class SliderCmp extends React.Component {
         backgroundImage: 'url('+ require('./../.././images/slajd1002.jpg') +')',
     };
     const photo04Url = {
-        backgroundImage: 'url('+ require('./../.././images/slajd1003.jpg') +')',
+        backgroundImage: 'url('+ require('./../.././images/slajd1012.jpg') +')',
     };
 
     var settings = {
@@ -66,7 +66,7 @@ class SliderCmp extends React.Component {
                 otoczeniu, to osoby, które cenią wyjątkowość, piękno i naturalność, jaką łączy w sobie drewno.</p>
             </div>
           </div>
-          
+
         </Slider>
       </div>
     );

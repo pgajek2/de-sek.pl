@@ -20,7 +20,7 @@ class ProductCmp extends React.Component {
     return (
       <div className="product-wrapper">
         <h3>{this.props.product.name}</h3>
-        <p>Cena: {this.props.product.price} zł</p>
+        <p>Cena od {this.props.product.price} zł</p>
           <div className="product-content" style={image} productid={this.props.product.id}>
             <Link to={ "/product-details/"+ this.props.product.link+"/:"+this.props.product.id}/>
           </div>

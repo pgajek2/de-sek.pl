@@ -46,7 +46,7 @@ class HeaderCmp extends React.Component {
         $('#nav li').css( "text-shadow", "1px 1px 0px rgba(0, 0, 0, 1);" );
       } else {
         console.log('another');
-        $('#nav a').css( "color", "black" );
+        $('#nav a').css( "color", "#666" );
         $('#nav li').css( "text-shadow", "none" );
       }
     });
