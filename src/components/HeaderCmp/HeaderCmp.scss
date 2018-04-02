@@ -1,0 +1,126 @@
+// General styles settings
+nav {
+  width: 100%;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 4fr;
+  padding: 20px 0px;
+  position: fixed;
+  z-index: 2;
+  color: white;
+  transition: 1s linear;
+
+  .mobile {
+    display: none;
+    text-align: center;
+  }
+
+  .logo {
+    text-align: center;
+    margin: 0px 20px;
+    img {
+      height: 50px;
+      width: 100px;
+    }
+  }
+
+  ul {
+    margin: 0px 10% 0px 10%;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  li {
+    align-self: center;
+    padding: 2px 7px;
+    font-size: 16px;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+    transition: 0.2s;
+    letter-spacing: 2px;
+    //text-transform: uppercase;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+  /* future */
+  .social {
+    text-align: center;
+    display: none;
+  }
+  .active-tab {
+    border-bottom: 3px solid darken(white, 20);
+  }
+
+}
+
+.stick-nav {
+  transition: 1s linear;
+  background: rgba(0, 0, 0, 0.7);
+  li {
+    color: white !important;
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  nav {
+    ul {
+      margin: 0px 20% 0px 40%;
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991px){
+
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767px) {
+  nav {
+    grid-template-rows : auto;
+    grid-template-columns : 1fr;
+    .logo {
+      display: none;
+    }
+    .mobile {
+      display: block;
+    }
+    ul {
+      width: 100%;
+      margin: 0px;
+      text-align: center;
+      flex-flow: column;
+    }
+  }
+}
+
+// Small devices (phones)
+@media (min-width: 0px) and (max-width: 575px) {
+  nav {
+    grid-template-rows : auto;
+    grid-template-columns : 1fr;
+    .logo {
+      display: none;
+    }
+    .mobile {
+      display: block;
+    }
+    ul {
+      width: 100%;
+      margin: 0px;
+      text-align: center;
+      flex-flow: column;
+    }
+  }
+}

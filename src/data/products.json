@@ -1,0 +1,656 @@
+[
+    {
+      "id" : 0,
+      "name" : "Meble ogrodowe RETRO",
+      "category" : "meble",
+      "link" : "ogrodowe-meble-RETRO",
+      "image" : 48,
+      "price" : 700,
+      "details" : [
+        "Wymiary:  160 cm x 70 cm",
+        "Komplet: 2 x ławki i stół",
+        "Żeliwne nogi",
+        "Deski olchowe i sosnowe",
+        "Czterokrotna impregnacja",
+        "Kolor palisander",
+        "Solidne i masywne"
+      ],
+      "description" : "",
+      "images" : [
+          47, 48, 49
+      ]
+    },{
+      "id" : 1,
+      "name" : "Altana 2 w 1",
+      "category" : "altany",
+      "link" : "altana-2-w-1",
+      "image" : 85,
+      "price" : 3500,
+      "details" : [
+        "Altana - zestaw wypoczynkowy w jednym!",
+        "Hamak",
+        "Ławki i stół",
+        "Huśtawka",
+        "Dekoracyjne zdobienia",
+        "Solidne wykonanie",
+        "Zaimpregnowana"
+      ],
+      "description" : "",
+      "images" : [
+          85, 86, 87
+      ]
+    },{
+      "id" : 2,
+      "name" : "Huśtawka ogrodowa",
+      "category" : "inne",
+      "link" : "hustawka-ogrodowa",
+      "image" : 89,
+      "price" : 900,
+      "details" : [
+        "Ciekawe wzornictwo",
+        "Solidne wykonanie",
+        "Zaimpregnowana",
+        "Możliwość transportu do klienta"
+      ],
+      "description" : "",
+      "images" : [
+          88, 89
+      ]
+    },{
+      "id" : 3,
+      "name" : "Zestaw biesiadny",
+      "category" : "meble",
+      "link" : "zestaw-biesiadny",
+      "image" : 33,
+      "price" : 2300,
+      "details" : [
+        "Doskonały do grillowania",
+        "Solidne wykonanie",
+        "Niepowtarzanle wzornictwo",
+        "W całości z drewna"
+      ],
+      "description" : "",
+      "images" : [
+          33, 34
+      ]
+    },{
+      "id" : 4,
+      "name" : "Drewniany wózek",
+      "category" : "inne",
+      "link" : "drewniany-wozek",
+      "image" : 50,
+      "price" : 350,
+      "details" : [
+        "Wymiary: 107 cm x 70 cm",
+        "W całości wykonany z drewna",
+        "Element dekoracyjny",
+        "Idealny na taras lub do ogrodu"
+      ],
+      "description" : "",
+      "images" : [
+          51, 52
+      ]
+    },{
+      "id" : 5,
+      "name" : "Wielofunkcyjny ławko - stół",
+      "category" : "meble",
+      "link" : "wielofunkcyjny-lawko-stol",
+      "image" : 46,
+      "price" : 650,
+      "details" : [
+        "Wymiary: 160 cm x 70 cm",
+        "Wymiary ławek: 136 cm x 30 cm",
+        "Łatwość użycia",
+        "Ławka z opraciem lub stół z dwiema ławkami",
+        "Czterokrotna impregnacja w kolorze TIK",
+        "Solidnie wykonany",
+        "Wielofunkcyjność"
+      ],
+      "description" : "",
+      "images" : [
+          40, 41, 42, 43, 44
+      ]
+    },{
+      "id" : 6,
+      "name" : "Kufer",
+      "category" : "ozdoby",
+      "link" : "drewniany-kufer",
+      "image" : 35,
+      "price" : 300,
+      "details" : [
+        "Wymiary:  111 cm x 59 cm x 45 cm",
+        "Wymiary klapay: 120 cm x 63 cm",
+        "Do przedpokoju, na zabawki, do ogrodu, na taras",
+        "Frezowany",
+        "Motyw rzeźbiony",
+        "Lakierowany",
+        "Zachowana naturalna barwa"
+      ],
+      "description" : "",
+      "images" : [
+          35, 36, 37, 38, 39
+      ]
+    },{
+      "id" : 7,
+      "name" : "meble ogrodowe",
+      "category" : "meble",
+      "link" : "ogrodowe-meble",
+      "image" : 53,
+      "price" : 760,
+      "details" : [
+        "Wymiary blatu:  170 cm x 64 cm",
+        "Komplet: 2 x ławki i stół",
+        "Deski olchowe",
+        "Stalowe nogi proszkowane w kolorze czarnym",
+        "Czterokrotna impregnacja",
+        "Możliwość samodzielnego złożenia",
+        "Grubość desek 3 - 4.5 cm"
+       ],
+      "description" : "",
+      "images" : [
+          53, 54, 55, 56
+      ]
+    },{
+      "id" : 8,
+      "name" : "Zestaw ogrodowy",
+      "category" : "meble",
+      "link" : "zestaw-ogrodowy",
+      "image" : 57,
+      "price" : 700,
+      "details" : [
+        "Wymiary blatu:  174 cm x 72 cm",
+        "Komplet: 2 x ławki i stół",
+        "Deski sosnowe i olchowe",
+        "Stalowe nogi proszkowane w kolorze czarnym",
+        "Czterokrotna impregnacja",
+        "Deski suszone, seznoowane, szlifowane, frazwowane",
+        "Grubość desek 3 - 4.5 cm"
+       ],
+      "description" : "",
+      "images" : [
+          57, 58
+      ]
+    },{
+      "id" : 9,
+      "name" : "Zestaw ogrodowy",
+      "category" : "meble",
+      "link" : "ogrodowy-zestaw",
+      "image" : 60,
+      "price" : 860,
+      "details" : [
+        "Wymiary blatu:  170 cm x 72 cm",
+        "Komplet: 2 x ławki i stół",
+        "Deski sosnowe i olchowe",
+        "Stalowe nogi proszkowane w kolorze czarnym",
+        "Czterokrotna impregnacja",
+        "Kolor ciemny orzech",
+        "Grubość desek 3 - 4.5 cm"
+       ],
+      "description" : "",
+      "images" : [
+          60, 61, 62
+      ]
+    },{
+      "id" : 10,
+      "name" : "Plac zabaw - huśtawka",
+      "category" : "inne",
+      "link" : "plac-zabaw-hustawka",
+      "image" : 67,
+      "price" : 1500,
+      "details" : [
+        "Duża huśtawka",
+        "Mała huśtawka",
+        "Zjeżdżalnia",
+        "Możliwość własnej aranżacji elementów",
+        "Wyrób zaimpregnowany",
+        "Możliwość transportu",
+        "Bogate zdobienia"
+       ],
+      "description" : "",
+      "images" : [
+         63, 64, 65, 66, 67
+      ]
+    },{
+      "id" : 11,
+      "name" : "Ławeczka",
+      "category" : "meble",
+      "link" : "laweczka",
+      "image" : 28,
+      "price" : 270,
+      "details" : [
+        "Długość: 170 cm",
+        "Solidne wykonanie",
+        "Zdobione krawędzie",
+        "Możliwość dokompletowania stołu i drugiego siedziska"
+       ],
+      "description" : "",
+      "images" : [
+          27, 28, 29
+      ]
+    },{
+      "id" : 12,
+      "name" : "Zestaw ogrodowy",
+      "category" : "meble",
+      "link" : "kompletny-zestaw",
+      "image" : 23,
+      "price" : 1500,
+      "details" : [
+        "Wymiary stołu:  220 cm x 80 cm",
+        "W całości z drewna",
+        "Ławki dopasowane do wymiarów stołu",
+        "Wyeksponowany wzór drewna"
+       ],
+      "description" : "",
+      "images" : [
+          18, 19, 20, 21, 22, 23, 24, 25, 26
+      ]
+    },
+    {
+      "id" : 13,
+      "name" : "Pięcioelementowy zestaw ogrodowy",
+      "category" : "meble",
+      "link" : "piecioelementowy-zestaw",
+      "image" : 70,
+      "price" : 1150,
+      "details" : [
+        "Długość: 200 cm",
+        "Stół, 2 x fotel, 2 x ławka",
+        "Żeliwne nogi i podłokietniki",
+        "Kolor ciemny orzech",
+        "Możliwość nabycia elementów osobno"
+       ],
+      "description" : "",
+      "images" : [
+          68, 69, 70, 71
+      ]
+    },{
+      "id" : 14,
+      "name" : "Drewniany domek dla dzieci",
+      "category" : "inne",
+      "link" : "drewniany-domek-dla-dzieci",
+      "image" : 73,
+      "price" : 4700,
+      "details" : [
+        "Wysokość: 246 cm",
+        "Wymiary: 213 cm x 132 cm",
+        "Zaimpregnowany w kolorze TIK",
+        "Kryty papą",
+        "Posiada drzwi, okna oraz schody wejściowe",
+        "Długość tarasu: 60 cm",
+        "Zjeżdżalnia"
+       ],
+      "description" : "",
+      "images" : [
+          72, 73
+      ]
+    },{
+      "id" : 15,
+      "name" : "Ławka parkowa",
+      "category" : "meble",
+      "link" : "lawka-parkowa",
+      "image" : 74,
+      "price" : 470,
+      "details" : [
+        "Długość: 200 cm",
+        "Zaimpregnowana",
+        "Stabilna i masywna",
+        "Żeliwne nogi",
+        "Deski brzozowe o gr. 4 cm",
+        "Do ogrodu, altany lub przed dom",
+        "Sezonowane, suche, czyszczone drewno brzozowe"
+       ],
+      "description" : "",
+      "images" : [
+          74, 75, 76, 77
+      ]
+    },{
+      "id" : 16,
+      "name" : "Komplet ogrodowy",
+      "category" : "meble",
+      "link" : "komplet-ogrodowy",
+      "image" : 80,
+      "price" : 750,
+      "details" : [
+        "Długość: 180 cm",
+        "Komplet: 2 x ławka i stół",
+        "Kilkukrotna impregnacja",
+        "Kolor wiśnia",
+        "Żeliwne nogi",
+        "Idealny do ogrodu lub na taras"
+       ],
+      "description" : "",
+      "images" : [
+          78, 79, 80
+      ]
+    },{
+      "id" : 17,
+      "name" : "Komplet mebli ogrodowych",
+      "category" : "meble",
+      "link" : "komplet-mebli-ogrodowych",
+      "image" : 84,
+      "price" : 650,
+      "details" : [
+        "Wymiary stołu: 158 cm x 65 cm",
+        "Wysokiej jakości lakier",
+        "Zachowana naturalna barwa",
+        "Żeliwne nogi",
+        "Idealny do ogrodu lub na taras",
+        "Unikalny kształt desek",
+        "Mocna konstrukcja"
+       ],
+      "description" : "",
+      "images" : [
+          81, 82, 83, 84
+      ]
+    },{
+      "id" : 18,
+      "name" : "Sztachety olchowe",
+      "category" : "meble",
+      "link" : "sztachety-olchowe",
+      "image" : 90,
+      "price" : 6.7,
+      "details" : [
+        "Cena: 6.70 - 9.70 zł",
+        "100 cm x 8 cm - 6.70 zł / szt",
+        "120 cm x 8 cm - 7.70 zł  / szt",
+        "140 cm x 10 cm - 9.70 zł  / szt",
+        "Czterostronnie szlifowana",
+        " Przy zakupie dużych ilości cena do negocjacji"
+       ],
+      "description" : "",
+      "images" : [
+          90, 91
+      ]
+    },
+    {
+      "id" : 19,
+      "name" : "Altana sześciokątna",
+      "category" : "Altanty",
+      "link" : "szesciokatna-altana",
+      "image" : 4,
+      "price" : 3000,
+      "details" : [
+        "Przekątna 5 m",
+        "Bale o średnicy 40 cm",
+        "Wykończenie na potrzeby klienta",
+        "Pokryta deskami",
+        "Zabudowana trzema ścianami",
+        "Możliwość pokrycia papą lib gontem bitumicznym",
+        "Dodatkowe wyposażenie wedle życzenia klienta"
+       ],
+      "description" : "Cena w zależności od wymiarów, wyposażenia i rodzaju wybranego materiału",
+      "images" : [
+          4
+      ]
+    },
+    {
+      "id" : 20,
+      "name" : "Ogrodzenia, bramy, furtki",
+      "category" : "ogrodzenia",
+      "link" : "bramy-furtki",
+      "image" : 11,
+      "price" : 250,
+      "details" : [
+        "Deski o nieregularnym kształcie tzw. ramczówki",
+        "Oferujemy możliwość wkomponowania ogrodzenia, bramy i furtki w drewniane, metalowe lub betonowe słupki",
+        "Wykonanie w stylu tradycyjnym ze sztachet w pionie i poziomie",
+        "Cena w zależności od zamówionego ogrodzenia i wybranego materiału"
+       ],
+      "description" : "",
+      "images" : [
+          10, 11, 12, 13
+      ]
+    },{
+      "id" : 21,
+      "name" : "Domek ogrodowy - drewutnia w jednym",
+      "category" : "zadaszenia",
+      "link" : "drewutnia-domek",
+      "image" : 93,
+      "price" : 8000,
+      "details" : [
+        "Wymiary: 4.5 m x 2.5 m x wys: 2.60 m (w szczycie)",
+        "Wysokość ścian bocznych: 1.75 m",
+        "Pokryta papą - rodzaj pokrycia do wyboru klienta",
+        "Zaimpregnowana",
+        "Cena zależna od wymiarów"
+       ],
+      "description" : "",
+      "images" : [
+
+      ]
+    },{
+      "id" : 22,
+      "name" : "Drewniana wędzarnia ogrodowa z termometrem",
+      "category" : "inne",
+      "link" : "wedzarnia",
+      "image" : 95,
+      "price" : 450,
+      "details" : [
+        "Wymiary komory wędzenia:  64 cm x 78 cm",
+        "Wysokość: 126 cm",
+        "4 sztuki kijków do wędzenia ",
+        "Podpórka do dachu",
+        "Wykonana w całości z drewna olchowego",
+        "Wbudowany termometr",
+        "Rozkładany boczny blat"
+       ],
+      "description" : "",
+      "images" : [
+          95, 96, 97
+      ]
+    },{
+      "id" : 23,
+      "name" : "Drewniana skrzynia",
+      "category" : "ozdoby",
+      "link" : "skrzynia",
+      "image" : 102,
+      "price" : 330,
+      "details" : [
+        "Wymiary: 110 cm x 60 cm",
+        "Drewno sosnowe",
+        "Impregnacja w kolorze mahoń",
+        "Element dekoracyjny",
+        "Możliwość dopasowania do potrzeb klienta"
+       ],
+      "description" : "",
+      "images" : [
+
+      ]
+    },{
+      "id" : 24,
+      "name" : "Drewniana skrzynia",
+      "category" : "meble",
+      "link" : "kufer",
+      "image" : 104,
+      "price" : 350,
+      "details" : [
+        "Wymiary: 117.5 cm x 62 cm Wysokość: 49 cm",
+        "Wykonano z suszonego drewna sosnowego",
+        "Deski montowane metodą pióro - wpust",
+        "Zaimpregnowano w kolorze polisander na wysoki połysk",
+        "Możliwość dopasowania do potrzeb klienta",
+        "Możliwość wysyłki kurierem: 75 zł",
+        "Waga: 48 kg dzięki czemu może służyć za siedzisko "
+       ],
+      "description" : "",
+      "images" : [
+          104, 105, 106, 107, 108, 109, 110
+      ]
+    },{
+      "id" : 25,
+      "name" : "Ławka Parkowa",
+      "category" : "meble",
+      "link" : "lawa-palisander",
+      "image" : 121,
+      "price" : 480,
+      "details" : [
+        "Ręcznie rzeźbiona",
+        "Drewno przygotowane poprzez: suszenie, heblowanie i polerowanie",
+        "Czterokrotna impregnacja w kolorze palisander",
+        "Wysoki połysk z użyciem lakieru jachtowego",
+        "Wymiary: 185 cm x 38 cm x 45,5 cm",
+        "Wykonana z selekcjowanego drzewa liściastego"
+       ],
+      "description" : "",
+      "images" : [
+          121, 122, 123, 124
+      ]
+    },{
+      "id" : 26,
+      "name" : "Drewniana toaleta XL",
+      "category" : "inne",
+      "link" : "toaleta-drewniana",
+      "image" : 111,
+      "price" : 750,
+      "details" : [
+        "Wymiary: 107 cm x 126 cm. Wysokość: 230 cm",
+        "Masywna podłoga",
+        "Dach: deska na wpust pokryty papą",
+        "Możliwość pomalowania w kolorze według życzenia klienta",
+        "Wykonana z desek sosnowych dwustronnie heblowanych łączonych metodą pióro- wpust",
+        "Wychodek wyposażony w tylną klapę na zawiasach",
+        "W środku wieszak na papier toaletowy i drugi wysoko na płaszcz"
+       ],
+      "description" : "",
+      "images" : [
+         111, 112, 113, 114, 115, 116
+      ]
+    },{
+      "id" : 27,
+      "name" : "Ławka Królewska",
+      "category" : "meble",
+      "link" : "lawka-krolewska",
+      "image" : 117,
+      "price" : 300,
+      "details" : [
+        "Wykonana z drewna olchowego",
+        "Czterokrotna impregnacja",
+        "Czterokrotna impregnacja w kolorze palisander",
+        "Wysoki połysk",
+        "Wymiary: 180 cm x 34 cm x 38 cm",
+        "Drewno suszone, sezonowane, szlifowane, frezowane",
+        "W ofercie także wysyłka kurierem w częściach do samodzielnego montażu"
+       ],
+      "description" : "",
+      "images" : [
+          117, 118, 119, 120
+      ]
+    },{
+      "id" : 28,
+      "name" : "Toaleta drewniana VIP",
+      "category" : "inne",
+      "link" : "wychodek",
+      "image" : 132,
+      "price" : 1150,
+      "details" : [
+        "Wymiary: 119 cm x 137 cm. Wysokość: 220 cm",
+        "Wyposażenie: sedes + umywalka",
+        "Dach: deska na wpust pokryty papą",
+        "Solidna podłoga z desek o grubości 4.5 cm",
+        "Wykonana z sezonowanych desek sosnowych łączonych metodą pióro- wpust",
+        "Całość dwukrotnie zaimpregnowana",
+        "Istnieje możliwość zaimpregnowania w kolorze wybranym przez klienta"
+       ],
+      "description" : "Wykonany z sezonowanego drewna sosnowego. Solidna podłoga z desek o grubości 4,5 cm. montowanej metodą na felc. Masywny szkielet zrobiony z kantówki 9 x 7cm. Ściany: deska grubości 2 cm. montowane metodą pióro - wpust. Bardzo stabilny, wygodny i jednocześnie nowoczesny. Doskonale nadaje się na każde podwórko, działkę czy budowę.  Osiąga standardy toalety domowej dzięki zamontowanej instalacji wodno - kanalizacyjnej z wyprowadzeniem podłączenia do szamba co powoduje,że doskonale nadaje się jako wyposażenie ogródka piwnego, na pole przy zbiorach czy miejsc wypoczynku letniego (kolonie, agroturystyka, letniska).Całość dwukrotnie zaimpregnowana - widoczny kolor na zdjęciu mahoń. Istnieje możliwość zaimpregnowania w kolorze wybranym przez klienta. Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz.Wymiary zewnętrzne toalety ze zdjęcia: wys. całkowita: 220 cm, szer. 119 cm, głębokość 137cm, Wymiary wewnętrzne: szer: 111 cm, głębokość 131 cm, szer. wejście 75 cm x 184 cm. Wymiary dachu: 40 x 167 cm. Możliwość zainstalowania oświetlenia na zewnątrz jak i w środku.Wykonujemy również toalety w wybranych przez klienta rozmiarach oraz bez wyposażenia (sedes, umywalka) wewnątrz wyłącznie z podłączeniem instalacji wodnej i kanalizacji.",
+      "images" : [
+         125, 126, 127, 128, 129, 130, 131, 132
+      ]
+    },{
+      "id" : 29,
+      "name" : "Nadajemy nowe życie",
+      "category" : "inne",
+      "link" : "odnowa",
+      "image" : 133,
+      "price" : 0,
+      "details" : [
+        "Odnowa starych mebli i innych przedmoiotów z drewna",
+        "Impregnacja",
+        "Malowanie",
+        "Wysoki połysk",
+        "Cena i sposób renowacji do uzgodnienia"
+       ],
+      "description" : "",
+      "images" : [
+          133, 134, 135
+      ]
+    },{
+      "id" : 30,
+      "name" : "Altana ogrodowa",
+      "category" : "altany",
+      "link" : "ogrodowa-altana",
+      "image" : 136,
+      "price" : 7800,
+      "details" : [
+        "Drewno sosnowe",
+        "Wymiary: 4 m x 4 m",
+        "Wysokość całkowita: 3 m",
+        "Pełna zabudowa dwóch ściani",
+        "Możliwość pokrycia papą lub gontem bitumicznym",
+        "Montowanie desek metodą pióro - wpust, pokryty gontem bitumicznym",
+        "Proponujemy również wykonanie altany zgodnie z życzeniem klienta"
+       ],
+      "description" : "",
+      "images" : [
+          136, 137, 138, 139, 140
+      ]
+    },{
+      "id" : 31,
+      "name" : "Altana ogrodowa",
+      "category" : "altany",
+      "link" : "ogrodowa-altana-2",
+      "image" : 146,
+      "price" : 5000,
+      "details" : [
+        "Podana cena jest ceną orientacyjną",
+        "Drewno sosnowe",
+        "Wymiary: 4.5 m x 3 m",
+        "Pokryta gontem bitumicznym",
+        "Cena w zależności od gabarytów i indywidualnego zamówienia klienta",
+        "Zaimpregnowana w kolorze Tik",
+        "Montowanie desek metodą pióro - wpust, pokryty gontem bitumicznym",
+        "Proponujemy również wykonanie altany zgodnie z życzeniem klienta"
+       ],
+      "description" : "Altana ogrodowa. Wykonana z sezonowanego drewna sosnowego. Pokryta gontem bitumicznym na podbitce z desek heblowanych, montowanych metodą pióro - wpust. Wymiary: 450cm x 300cm. Zaimpregnowana w kolorze Tik. Możliwość wykonania altany w wybranych przez klienta wymiarach, kolorze i kształcie. Cena w zależności od gabarytów i indywidualnego zamówienia klienta. Podana cena jest ceną orientacyjną i nie dotyczy produktu pokazanego na zdjęciu.",
+      "images" : [
+          145, 146, 147, 148
+      ]
+    },{
+      "id" : 32,
+      "name" : "Wiata ogrodowa",
+      "category" : "zadaszenia",
+      "link" : "wiata-ogrodowa",
+      "image" : 149,
+      "price" : 6000,
+      "details" : [
+        "Podana cena jest ceną orientacyjną",
+        "Drewno sosnowe",
+        "Wiata pokryta gontem bitumicznym",
+        "Deski ściaan i dachu, heblowane i szlifowane.",
+        "Całość zaimpregnowana w kolorze Tik",
+        "Cena zależna jest od gabarytów i indywidualnego zamówienia klienta."
+       ],
+      "description" : "Wiata ogrodowa - garaż z pomieszczeniem gospodarczym. Wykonana z sezonowanego drewna sosnowego. Pokryta gontem bitumicznym w kolorze grafitowym. Deski ścian i dachu, heblowane i szlifowane. Montowane metodą pióro - wpust. Wymiary widocznej na zdjęciu poglądowym 650cm x 350cm. Całość zaimpregnowana w kolorze Tik.  Możliwość wykonania wiaty w wybranych przez klienta wymiarach, kolorze i kształcie. Cena zależna jest od gabarytów i indywidualnego zamówienia klienta. Podana cena jest ceną orientacyjną i nie dotyczy produktu pokazanego na zdjęciu.",
+      "images" : [
+          149, 150, 151, 152
+      ]
+    },{
+      "id" : 33,
+      "name" : "Studnia",
+      "category" : "ozdoby",
+      "link" : "studnia",
+      "image" : 142,
+      "price" : 800,
+      "details" : [
+        "Podana cena jest ceną orientacyjną",
+        "Obudowa studni",
+        "Drewno sosnowe",
+        "Pokryta gontem bitumicznym z podbitką drewnianą. ",
+        "Zaimpregnowana w kolorze Palisander",
+        "Kształt, wielkość, kolor - do wyboru według życzenia klienta"
+       ],
+      "description" : "Studnia- obudowa, atrapa studni. Wykonujemy ozdobne obudowy istniejącej już studni, tworzymy również atrapy studni do postawienia w dowolnym miejscu. Widoczna na zdjęciu wykonana z sezonowanego drewna sosnowego. Pokryta gontem bitumicznym z podbitką drewnianą. Zaimpregnowana w kolorze Palisander.  Kształt, wielkość, kolor - do wyboru według życzenia klienta. Podana cena jest ceną orientacyjną i nie dotyczy produktu pokazanego na zdjęciu.",
+      "images" : [
+          141, 142, 143, 144
+      ]
+    }
+]
