@@ -3,7 +3,6 @@
   display: grid;
   justify-items: center;
   grid-template-columns: 1fr;
-  grid-template-rows: 3;
   margin: 40px 15%;
   .h3 {
     text-align: center;
@@ -52,4 +51,111 @@
     grid-column: 1 / 2;
     grid-row: 1 / 5;
   }
+}
+
+
+@media (min-width: 1200px) {
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991px){
+  .description {
+    .description-item {
+      grid-template-columns: 1fr;
+    }
+    .h3-left {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+    .p-left {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+    }
+    .img-right{
+      grid-column: 1 / 2;
+      grid-row: 3 / 4;
+    }
+    .h3-right {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+    .p-right {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+    }
+    .img-left{
+      grid-column: 1 / 2;
+      grid-row: 3 / 4;
+    }
+ }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767px) {
+  .description {
+    .description-item {
+      grid-template-columns: 1fr;
+    }
+    .h3-left {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+    .p-left {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+    }
+    .img-right{
+      grid-column: 1 / 2;
+      grid-row: 3 / 4;
+    }
+    .h3-right {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+    .p-right {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+    }
+    .img-left{
+      grid-column: 1 / 2;
+      grid-row: 3 / 4;
+    }
+ }
+}
+
+// Small devices (phones)
+@media (min-width: 0px) and (max-width: 575px) {
+  .description {
+    .description-item {
+      grid-template-columns: 1fr;
+    }
+    .h3-left {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+    .p-left {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+    }
+    .img-right{
+      grid-column: 1 / 2;
+      grid-row: 3 / 4;
+    }
+    .h3-right {
+      grid-column: 1 / 2;
+      grid-row: 1 / 2;
+    }
+    .p-right {
+      grid-column: 1 / 2;
+      grid-row: 2 / 3;
+    }
+    .img-left{
+      grid-column: 1 / 2;
+      grid-row: 3 / 4;
+    }
+ }
 }

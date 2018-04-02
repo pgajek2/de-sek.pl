@@ -14,11 +14,9 @@ class ProductCmp extends React.Component {
   };
 
   render () {
-
     const image = {
       backgroundImage: 'url('+ require("./../.././images/slajd" + this.props.product.image + ".jpg") +')',
     };
-
     return (
       <div className="product-wrapper">
         <h3>{this.props.product.name}</h3>

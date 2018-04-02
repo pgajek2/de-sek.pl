@@ -4,10 +4,10 @@ $border-space: 16px;
 
 .product-details {
   display: grid;
-  grid-template-columns: 4fr 3fr;
+  grid-template-columns: 7fr 5fr;
   grid-template-rows: auto;
   grid-gap: 2%;
-  padding: 10% 5% 5% 5%;
+  padding: 8% 5% 5% 5%;
   .product-content {
     padding: 0px 5%;
   }
@@ -36,12 +36,66 @@ $border-space: 16px;
     font-family: FontAwesome;
     font-style: normal;
     font-weight: normal;
-    color: black;
+    color: darken(white, 60);;
     font-size: 18px;
     padding-right: 0.5em;
   }
   .product-description {
     padding: $border-space 0px $border-space 0px;
     border-bottom: 1px solid darken(white, 10);
+  }
+  .product-navigation {
+    display: flex;
+    justify-content: space-between;
+    padding: $border-space 0px $border-space 0px;
+    border-bottom: 1px solid darken(white, 10);
+  }
+}
+
+
+@media (min-width: 1200px) {
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199px) {
+  .product-details {
+    grid-template-columns: 1fr;
+    padding: 12% 5% 5% 5%;
+    .product-content {
+      padding: 6% 5%;
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) and (max-width: 991px){
+  .product-details {
+    grid-template-columns: 1fr;
+    padding: 12% 5% 5% 5%;
+    .product-content {
+      padding: 6% 5%;
+    }
+  }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) and (max-width: 767px) {
+  .product-details {
+    grid-template-columns: 1fr;
+    padding: 20% 5% 5% 5%;
+    .product-content {
+      padding: 10% 5%;
+    }
+  }
+}
+
+// Small devices (phones)
+@media (min-width: 0px) and (max-width: 575px) {
+  .product-details {
+    grid-template-columns: 1fr;
+    padding: 20% 5% 5% 5%;
+    .product-content {
+      padding: 10% 5%;
+    }
   }
 }

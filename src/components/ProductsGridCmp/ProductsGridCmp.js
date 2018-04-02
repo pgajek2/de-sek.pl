@@ -19,7 +19,7 @@ class ProductsGridCmp extends React.Component{
       if ((this.props.category === 'all' || products[i].category === this.props.category) &&
           (this.props.minPrice <= products[i].price && this.props.maxPrice >= products[i].price) &&
            products[i].name.match(this.props.productName))  {
-        productList.push(<ProductCmp product={products[i]}/>);
+             productList.push(<ProductCmp product={products[i]}/>);
       }
     }
     return (

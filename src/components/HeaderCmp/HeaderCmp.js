@@ -32,6 +32,7 @@ class HeaderCmp extends React.Component {
     }
     this.setActiveTab = this.setActiveTab.bind(this);
     this.handleScroll = this.handleScroll.bind(this);
+    this.mobileMenu = this.mobileMenu.bind(this);
   };
 
   setActiveTab(event) {
@@ -70,11 +71,18 @@ class HeaderCmp extends React.Component {
     }
   };
 
+  mobileMenu() {
+    $('#nav ul').toggleClass("hide");
+  };
+
   render() {
     return (
       <nav id="nav" >
-        <div className="mobile">
-          MENU
+        <div className="mobile" onClick={this.mobileMenu}>
+          <FontAwesome
+            name='bars'
+            size='2x'
+            style={{ color : '#e6e6e6' }}/>
         </div>
         <div className="logo">
           <img src={require('./../.././images/logo.png')} alt="de-sęk logo"/>
