@@ -13,6 +13,13 @@ class GalleryPage extends React.Component {
     super(props);
   }
   render() {
+    var galleryPhotos = [];
+    for (var i=0 ; i<photos.length ; i++) {
+      photos[i].width   = 4,
+      photos[i].height  = 3,
+      photos[i].alt     = 'de-sek.pl',
+      photos[i].caption = 'DE-SĘK.PL'
+    }
     return (
       <div className="gallery-page">
         <PageTitleCmp title="Galeria"/>

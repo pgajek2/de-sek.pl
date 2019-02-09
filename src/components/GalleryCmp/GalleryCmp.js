@@ -1,4 +1,5 @@
 import React from "react";
+import ReactDOM from 'react-dom';
 import { render } from "react-dom";
 import Gallery from "react-photo-gallery";
 import Lightbox from "react-images";
@@ -41,10 +42,6 @@ class GalleryCmp extends React.Component {
     });
   }
   render() {
-    var gallery = [];
-    for( var i=0; i<this.state.photos.length; i++ ) {
-      gallery.push(<img src={this.state.photos[i].src} onClick={this.openLightbox} key={i}/>)
-    }
     return (
       <div className="gallery">
         <Gallery photos={this.state.photos} onClick={this.openLightbox} margin={10} columns={7}/>

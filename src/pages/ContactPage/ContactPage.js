@@ -23,7 +23,8 @@ class ContactPage extends React.Component {
               <h3><FontAwesome name='home' /> DE-SĘK </h3>
               <p> F.H.U Przemysław Bęben</p>
               <p>Potok 83, 28-225 Szydłów</p>
-              <p><FontAwesome name='envelope-o' /> przemyslaw@de-sek.pl</p>
+              <p><FontAwesome name='envelope-o' />  przemys7@o2.pl </p>
+              <p><FontAwesome name='envelope-o' />  przemyslaw@de-sek.pl</p>
               <p><FontAwesome name='phone' /> +48 697 050 578</p>
           </div>
           <div className="social-media">

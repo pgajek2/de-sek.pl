@@ -5,7 +5,7 @@
       "category" : "meble",
       "link" : "ogrodowe-meble-RETRO",
       "image" : 48,
-      "price" : 700,
+      "price" : 950,
       "details" : [
         "Wymiary:  160 cm x 70 cm",
         "Komplet: 2 x ławki i stół",
@@ -74,29 +74,12 @@
           33, 34
       ]
     },{
-      "id" : 4,
-      "name" : "Drewniany wózek",
-      "category" : "inne",
-      "link" : "drewniany-wozek",
-      "image" : 50,
-      "price" : 350,
-      "details" : [
-        "Wymiary: 107 cm x 70 cm",
-        "W całości wykonany z drewna",
-        "Element dekoracyjny",
-        "Idealny na taras lub do ogrodu"
-      ],
-      "description" : "",
-      "images" : [
-          51, 52
-      ]
-    },{
       "id" : 5,
       "name" : "Wielofunkcyjny ławko - stół",
       "category" : "meble",
       "link" : "wielofunkcyjny-lawko-stol",
       "image" : 46,
-      "price" : 650,
+      "price" : 850,
       "details" : [
         "Wymiary: 160 cm x 70 cm",
         "Wymiary ławek: 136 cm x 30 cm",
@@ -116,7 +99,7 @@
       "category" : "ozdoby",
       "link" : "drewniany-kufer",
       "image" : 35,
-      "price" : 300,
+      "price" : 500,
       "details" : [
         "Wymiary:  111 cm x 59 cm x 45 cm",
         "Wymiary klapay: 120 cm x 63 cm",
@@ -343,32 +326,12 @@
           81, 82, 83, 84
       ]
     },{
-      "id" : 18,
-      "name" : "Sztachety olchowe",
-      "category" : "meble",
-      "link" : "sztachety-olchowe",
-      "image" : 90,
-      "price" : 6.7,
-      "details" : [
-        "Cena: 6.70 - 9.70 zł",
-        "100 cm x 8 cm - 6.70 zł / szt",
-        "120 cm x 8 cm - 7.70 zł  / szt",
-        "140 cm x 10 cm - 9.70 zł  / szt",
-        "Czterostronnie szlifowana",
-        " Przy zakupie dużych ilości cena do negocjacji"
-       ],
-      "description" : "",
-      "images" : [
-          90, 91
-      ]
-    },
-    {
       "id" : 19,
       "name" : "Altana sześciokątna",
-      "category" : "Altanty",
+      "category" : "altany",
       "link" : "szesciokatna-altana",
       "image" : 4,
-      "price" : 3000,
+      "price" : 4500,
       "details" : [
         "Przekątna 5 m",
         "Bale o średnicy 40 cm",
@@ -424,7 +387,7 @@
       "category" : "inne",
       "link" : "wedzarnia",
       "image" : 95,
-      "price" : 450,
+      "price" : 650,
       "details" : [
         "Wymiary komory wędzenia:  64 cm x 78 cm",
         "Wysokość: 126 cm",
@@ -444,7 +407,7 @@
       "category" : "ozdoby",
       "link" : "skrzynia",
       "image" : 102,
-      "price" : 330,
+      "price" : 500,
       "details" : [
         "Wymiary: 110 cm x 60 cm",
         "Drewno sosnowe",
@@ -462,7 +425,7 @@
       "category" : "meble",
       "link" : "kufer",
       "image" : 104,
-      "price" : 350,
+      "price" : 500,
       "details" : [
         "Wymiary: 117.5 cm x 62 cm Wysokość: 49 cm",
         "Wykonano z suszonego drewna sosnowego",
@@ -501,7 +464,7 @@
       "category" : "inne",
       "link" : "toaleta-drewniana",
       "image" : 111,
-      "price" : 750,
+      "price" : 950,
       "details" : [
         "Wymiary: 107 cm x 126 cm. Wysokość: 230 cm",
         "Masywna podłoga",
@@ -541,7 +504,7 @@
       "category" : "inne",
       "link" : "wychodek",
       "image" : 132,
-      "price" : 1150,
+      "price" : 1950,
       "details" : [
         "Wymiary: 119 cm x 137 cm. Wysokość: 220 cm",
         "Wyposażenie: sedes + umywalka",
@@ -652,5 +615,111 @@
       "images" : [
           141, 142, 143, 144
       ]
+    },{
+      "id" : 34,
+      "name" : "Toaleta drewniana VIP2",
+      "category" : "inne",
+      "link" : "toaleta-vip2",
+      "image" : 159,
+      "price" : 1950,
+      "details" : [
+        "Wykonany z drewna sosnowego",
+        "Masywny szkielet zrobiony z kantówki 11x7cm",
+        "Ściany: deska grubości około 2 cm. montowane metodą pióro - wpust.",
+        "Całość zaimpregnowana w kolorze do wyboru klienta.",
+        "Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz.",
+        "Oferujemy również możliwość wykonania instalacji elektrycznej (oświetlenia) na zewnątrz i wewnątrz ."
+       ],
+      "description" : "Wykonany z drewna sosnowego. Solidna podłoga z desek montowana metodą na felc. Masywny szkielet zrobiony z kantówki 11x7cm. Ściany: deska grubości około 2 cm. montowane metodą pióro - wpust. Bardzo stabilny, wygodny i jednocześnie nowoczesny. Doskonale nadaje się na każde podwórko, działkę czy budowę. Osiąga standardy toalety domowej dzięki zamontowanej instalacji wodno - kanalizacyjnej z wyprowadzeniem podłączenia do szamba/kanalizacji co powoduje, że doskonale nadaje się jako wyposażenie działki, ogródka piwnego, na pole przy zbiorach czy miejsc wypoczynku letniego. Całość zaimpregnowana w kolorze do wyboru klienta. Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz. Wymiary zewnętrzne toalety ze zdjęcia: wys. całkowita: 220cm., szer. 119cm., głębokość 137cm., Wymiary wewnętrzne: szer: 110cm., głębokość 130. szer. wejście około 72 cm x 178cm. Wymiary dachu: 141x166cm. Ze względu na ręczne montowanie elementów drewnianych, podane wymiary toalet mogą różnić się w granicach +- do 1,5cm. Oferujemy również możliwość wykonania instalacji elektrycznej (oświetlenia) na zewnątrz i wewnątrz. Wykonujemy również toalety w wybranych przez klienta rozmiarach oraz bez wyposażenia (sedes, umywalka) wewnątrz wyłącznie z podłączeniem instalacji wodnej i kanalizacji.",
+      "images" : [
+          153, 154, 155, 156, 157, 158, 159, 160      ]
+    },{
+      "id" : 35,
+      "name" : "Toaleta Komfort VIP",
+      "category" : "inne",
+      "link" : "komfort-vip",
+      "image" : 161,
+      "price" : 4600,
+      "details" : [
+        "Solidna podłoga z desek montowana metodą na felc",
+        "Masywny szkielet zrobiony z kantówki 11x7cm",
+        "Ściany: deska grubości około 2 cm. montowane metodą pióro - wpust.",
+        "Bardzo stabilny, wygodny i jednocześnie nowoczesny.",
+        "Całość zaimpregnowana w kolorze do wyboru klienta.",
+        "Ściany toalety od środka obite boazerią - możliwość ocieplenia toalety od wewnątrz."
+       ],
+      "description" : "Wykonany z drewna. Solidna podłoga z desek montowana metodą na felc. Masywny szkielet zrobiony z kantówki 11x7cm. Ściany: deska grubości około 2 cm. montowane metodą pióro - wpust. Bardzo stabilny, wygodny i jednocześnie nowoczesny. Doskonale nadaje się na każde podwórko, działkę czy budowę. Osiąga standardy toalety domowej dzięki zamontowanej instalacji wodno - kanalizacyjnej z wyprowadzeniem podłączenia do szamba/kanalizacji co powoduje, że doskonale nadaje się jako wyposażenie działki, ogródka piwnego, na pole przy zbiorach czy miejsc wypoczynku letniego. Całość zaimpregnowana w kolorze do wyboru klienta. Ciekawą ozdobę i jednocześnie rozświetlenie wnętrza dają zamontowane luksfery. Ściany toalety od środka obite boazerią - możliwość ocieplenia toalety od wewnątrz. Dodatkowo montowany daszek na taczkę lub inne sprzęty. Wyposażenie: sedes, umywalka, podgrzewacz wody, dwa wieszaki i dodatkowo uchwyt na papier toaletowy, dwa skoble do zamykania wewnątrz i na zewnątrz plus jeszcze jeden zamykany na kłódkę. Półka, lustro, instalacja elektryczna(gniazdko i dwa włączniki światła z kloszem i kinkietem), instalacja wodno - kanalizacyjna. Dodatkowo okno i wywietrznik. Wykładzina podłogowa oraz roleta. Wymiary zewnętrzne toalety ze zdjęcia: wys. całkowita: 220cm., szer. 119cm., głębokość 137cm., Wymiary wewnętrzne: szer: 110cm., głębokość 130. szer. wejście około 72 cm x 178cm. Wymiary dachu: 141x166cm. Ze względu na ręczne montowanie elementów drewnianych, podane wymiary toalet mogą różnić się w granicach +- do 1,5cm. Cena 4 600,00 zł.",
+      "images" : [
+          161, 162, 163, 164, 165, 166, 167, 169, 170, 171, 172, 173, 174, 175     ]
+    },{
+      "id" : 36,
+      "name" : "Toaleta drewniana",
+      "category" : "inne",
+      "link" : "toaleta-drewniana",
+      "image" : 177,
+      "price" : 950,
+      "details" : [
+        "Masywna podłoga i wygodne solidne siedzisko",
+        "Szkielet zrobiony z kantówki o solidnych wymiarach",
+        "Całość wykonana z desek sosnowych, heblowanych łączonych metodą pióro- wpust lub na felc",
+        "Całość zaimpregnowana w kolorze lub impregnatem bezbarwnym - możliwość wyboru koloru przez klienta.",
+        "Dach: deska na felc pokryty papą. Kolory na zdjęciu poglądowym to kasztan i palisander.",
+        "Solidne i ładne wykonanie."
+       ],
+      "description" : "Mamy do zaoferowania WC toaletę, która idealnie nadaje się na budowę, działkę lub podwórko dla 'amatorów przemyśleń w plenerze'. Masywna podłoga i wygodne solidne siedzisko z miejscem po bokach np. na gazety. Szkielet zrobiony z kantówki o solidnych wymiarach. Całość wykonana z desek sosnowych, heblowanych łączonych metodą pióro- wpust lub na felc. Wychodek wyposażony w tylną klapę na zawiasach, zamknięcia z zewnątrz i wewnątrz, w środku wieszak na papier toaletowy i drugi wysoko do zagospodarowania wg. uznania. Całość zaimpregnowana w kolorze lub impregnatem bezbarwnym - możliwość wyboru koloru przez klienta. Dach: deska na felc pokryty papą. Kolory na zdjęciu poglądowym to kasztan i palisander. Solidne i ładne wykonanie. W celu podniesienia walorów estetyczno - higienicznych proponujemy możliwość dodatkowego wyposażenia toalety w deskę sedesową - cena z montażem 50zł. Istnieje również możliwość montażu instalacji elektrycznej. Wykonujemy również toalety według wzoru i życzenia kupującego. Wymiary zewnętrzne: szer 107 cm, głębokość 126 cm. wys. około 220 cm. Ze względu na montowanie ręczne elementów drewnianych podane wymiary mogą różnić się o +-1,5cm",
+      "images" : [
+          176, 177, 178, 179, 180    ]
+    },{
+      "id" : 37,
+      "name" : "Toaleta drewniana VIP3",
+      "category" : "inne",
+      "link" : "toaleta-vip3",
+      "image" : 181,
+      "price" : 2050,
+      "details" : [
+        "Wykonany z drewna sosnowego.",
+        "Całość dwukrotnie zaimpregnowana - widoczny kolor na zdjęciu kasztan. Istnieje możliwość zaimpregnowania w kolorze wybranym przez klienta. ",
+        "Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz.",
+        "Oferujemy również możliwość wykonania instalacji elektrycznej (oświetlenia) na zewnątrz i wewnątrz .",
+        "Wykonujemy również toalety w wybranych przez klienta rozmiarach oraz bez wyposażenia (sedes, umywalka) wewnątrz wyłącznie z podłączeniem instalacji wodnej i kanalizacji. ",
+        "Solidne i ładne wykonanie."
+       ],
+      "description" : "Wykonany z drewna sosnowego. Solidna podłoga z desek montowana metodą na felc. Masywny szkielet zrobiony z kantówki 11x7cm. Ściany: deska grubości około 2 cm. montowane metodą pióro - wpust. Bardzo stabilny, wygodny i jednocześnie nowoczesny. Doskonale nadaje się na każde podwórko, działkę czy budowę. Osiąga standardy toalety domowej dzięki zamontowanej instalacji wodno - kanalizacyjnej z wyprowadzeniem podłączenia do szamba/kanalizacji co powoduje, że doskonale nadaje się jako wyposażenie działki, ogródka piwnego, na pole przy zbiorach czy miejsc wypoczynku letniego. Całość dwukrotnie zaimpregnowana - widoczny kolor na zdjęciu kasztan. Istnieje możliwość zaimpregnowania w kolorze wybranym przez klienta. Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz. Wymiary zewnętrzne toalety ze zdjęcia: wys. całkowita: 220cm., szer. 119cm., głębokość 137cm., Wymiary wewnętrzne: szer: 110cm., głębokość 130. szer. wejście około 72 cm x 178cm. Wymiary dachu: 141x166cm. Ze względu na ręczne montowanie elementów drewnianych, podane wymiary toalet mogą różnić się w granicach +- do 1,5cm. Oferujemy również możliwość wykonania instalacji elektrycznej (oświetlenia) na zewnątrz i wewnątrz. Wykonujemy również toalety w wybranych przez klienta rozmiarach oraz bez wyposażenia (sedes, umywalka) wewnątrz wyłącznie z podłączeniem instalacji wodnej i kanalizacji. Cena pokazanego na zdjęciu z pełnym wyposażeniem - 2 050,00 zł.",
+      "images" : [
+          181, 182, 183, 184, 185    ]
+    },{
+      "id" : 38,
+      "name" : "Toaleta drewniana 2",
+      "category" : "inne",
+      "link" : "toaleta-drewniana2",
+      "image" : 190,
+      "price" : 1000.00,
+      "details" : [
+        "Wychodek wyposażony w tylną klapę na zawiasach, zamknięcia z zewnątrz i wewnątrz, w środku wieszak na papier toaletowy i drugi wysoko do zagospodarowania wg. uznania.",
+        "Całość zaimpregnowana w kolorze lub impregnatem bezbarwnym - możliwość wyboru koloru przez klienta. ",
+        "Dach: deska na felc pokryty papą. Kolory na zdjęciu poglądowym to kasztan i palisander.",
+        "Solidne i ładne wykonanie.",
+        "Istnieje również możliwość montażu instalacji elektrycznej. ",
+        "Wykonujemy również toalety według wzoru i życzenia kupującego."
+       ],
+      "description" : "Mamy do zaoferowania WC toaletę, która idealnie nadaje się na budowę, działkę lub podwórko dla 'amatorów przemyśleń w plenerze'. Masywna podłoga i wygodne solidne siedzisko z miejscem po bokach np. na gazety. Szkielet zrobiony z kantówki o solidnych wymiarach. Całość wykonana z desek sosnowych, heblowanych łączonych metodą pióro- wpust lub na felc. Wychodek wyposażony w tylną klapę na zawiasach, zamknięcia z zewnątrz i wewnątrz, w środku wieszak na papier toaletowy i drugi wysoko do zagospodarowania wg. uznania. Całość zaimpregnowana w kolorze lub impregnatem bezbarwnym - możliwość wyboru koloru przez klienta. Dach: deska na felc pokryty papą. Kolory na zdjęciu poglądowym to kasztan i palisander. Solidne i ładne wykonanie. W celu podniesienia walorów estetyczno - higienicznych proponujemy możliwość dodatkowego wyposażenia toalety w deskę sedesową - cena z montażem 50zł. Istnieje również możliwość montażu instalacji elektrycznej. Wykonujemy również toalety według wzoru i życzenia kupującego. Wymiary zewnętrzne: szer 107 cm, głębokość 126 cm. wys. około 220 cm. Ze względu na montowanie ręczne elementów drewnianych podane wymiary mogą różnić się o +-1,5cm",
+      "images" : [
+          186, 187, 188, 189, 190    ]
+    },{
+      "id" : 39,
+      "name" : "Toaleta VIP4",
+      "category" : "inne",
+      "link" : "toaleta-vip4",
+      "image" : 194,
+      "price" : 2650.00,
+      "details" : [
+        "Całość zaimpregnowana w kolorze do wyboru klienta.",
+        "Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz ",
+        "Oferujemy również możliwość wykonania instalacji elektrycznej (oświetlenia) na zewnątrz i wewnątrz.",
+        "Wykonujemy również toalety bez wyposażenia (sedes, umywalka) wewnątrz wyłącznie z podłączeniem instalacji wodnej i kanalizacji lub bez."
+       ],
+      "description" : "Toaletę od innych odróżnia podłączenie wody z zamontowanego do niej na stelażu zbiornika (300 litrów). Daje to możliwość umieszczenia go w dowolnym miejscu bez bezpośredniego dostępu do bieżącej wody z zachowaniem możliwości korzystania z toalety jak w warunkach domowych (mycie rąk, spłukiwanie). Zbiornik napełniany może być przez deszczówkę lub w dowolny sposób w zależności od możliwości wynikających z usytuowania toalety. Istnieje również możliwość podłączenia toalety do wody bieżącej. Jest ona wykonana z drewna sosnowego. Solidna podłoga z desek montowana metodą na felc. Masywny szkielet zrobiony z kantówki około 11x7cm. Ściany: deska grubości około 2 cm. montowane metodą pióro - wpust. Bardzo stabilny, wygodny i jednocześnie nowoczesny. Doskonale nadaje się na każde podwórko, działkę czy budowę. Osiąga standardy toalety domowej dzięki zamontowanej instalacji wodno - kanalizacyjnej z wyprowadzeniem podłączenia do szamba/kanalizacji co powoduje, że doskonale nadaje się jako wyposażenie działki, ogródka piwnego, na pole przy zbiorach czy miejsc wypoczynku letniego. Całość zaimpregnowana w kolorze do wyboru klienta. Wyposażenie: sedes, umywalka, dwa wieszaki, dwa skoble do zamykania wewnątrz i na zewnątrz. Zamontowane luksfery dodają zarówno uroku całej konstrukcji ja i również zapewniają rozjaśnienie jej wnętrza.  Wymiary zewnętrzne toalety ze zdjęcia: wys. całkowita: 220cm., szer. 119cm., głębokość 137cm., Wymiary wewnętrzne: szer: 110cm., głębokość 130. szer. wejście około 72 cm x 178cm. Wymiary dachu: 141x166cm. Ze względu na ręczne montowanie elementów drewnianych, podane wymiary toalet mogą różnić się w granicach +- do 1,5cm.  Oferujemy również możliwość wykonania instalacji elektrycznej (oświetlenia) na zewnątrz i wewnątrz. Wykonujemy również toalety bez wyposażenia (sedes, umywalka) wewnątrz wyłącznie z podłączeniem instalacji wodnej i kanalizacji lub bez. Cena pokazanego na zdjęciu 2650zł.",
+      "images" : [
+          194, 192, 193, 191   ]
     }
 ]
